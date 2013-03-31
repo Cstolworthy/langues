@@ -1,0 +1,13 @@
+H:\Users\Chris\Documents\GitHub\langues\Client\bin\Debug\Langues.Client.exe.config
+H:\Users\Chris\Documents\GitHub\langues\Client\bin\Debug\Langues.Client.exe
+H:\Users\Chris\Documents\GitHub\langues\Client\bin\Debug\Langues.Client.pdb
+H:\Users\Chris\Documents\GitHub\langues\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+H:\Users\Chris\Documents\GitHub\langues\Client\obj\Debug\MainWindow.baml
+H:\Users\Chris\Documents\GitHub\langues\Client\obj\Debug\MainWindow.g.cs
+H:\Users\Chris\Documents\GitHub\langues\Client\obj\Debug\App.g.cs
+H:\Users\Chris\Documents\GitHub\langues\Client\obj\Debug\Langues.Client_MarkupCompile.cache
+H:\Users\Chris\Documents\GitHub\langues\Client\obj\Debug\Langues.Client.g.resources
+H:\Users\Chris\Documents\GitHub\langues\Client\obj\Debug\Langues.Client.Properties.Resources.resources
+H:\Users\Chris\Documents\GitHub\langues\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+H:\Users\Chris\Documents\GitHub\langues\Client\obj\Debug\Langues.Client.exe
+H:\Users\Chris\Documents\GitHub\langues\Client\obj\Debug\Langues.Client.pdb
